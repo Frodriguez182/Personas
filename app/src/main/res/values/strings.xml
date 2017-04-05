@@ -9,4 +9,6 @@
     <string name="Programar">Programar</string>
     <string name="Registrar">Registrar</string>
     <string name="Borrar">Borrar</string>
+    <string name="No">No.</string>
+    <string name="pasa_tiempos">Pasa_Tiempos</string>
 </resources>
