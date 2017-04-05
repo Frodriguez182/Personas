@@ -11,4 +11,8 @@
     <string name="Borrar">Borrar</string>
     <string name="No">No.</string>
     <string name="pasa_tiempos">Pasa_Tiempos</string>
+    <string name="Listar">Registrar</string>
+    <string-array name ="opciones">
+        <item>@string/Registrar</>
+    <item>@string/Listar</item>
 </resources>
