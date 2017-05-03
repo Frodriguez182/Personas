@@ -12,9 +12,11 @@
     <string name="No">No.</string>
     <string name="pasa_tiempos">Pasa_Tiempos</string>
     <string name="Listar">Listar</string>
+    <string name="Mostar">Listar</string>
     <string name="mensaje">Persona_Registrada_Exitosamente</string>
-    <string-array name ="opciones">
+    <string-array name="opciones">
         <item>@string/Registrar</item>
-    <item>@string/Listar</item>
+        <item>@string/Mostar</item>
+        <item>@string/Listar</item>
     </string-array>
 </resources>
